@@ -4,11 +4,6 @@ Building automation systems and command-line applications.
 
 ---
 
-## About me
-- Interested in automation and workflow optimization
-- Focused on terminal-based tools
-- Creating lightweight productivity systems
-
 ![image_alt](https://github.com/joyalmaxwell/joyalmaxwell/blob/6c78e2800d9b38fd14150e9b5422990e781fdb2f/Thumbnail/20260401_122811.png)
 
 ---
