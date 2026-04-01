@@ -1,6 +1,6 @@
 ---
 
-![image_alt](https://github.com/joyalmaxwell/joyalmaxwell/blob/a311844e3257caddf6c8f495263d49bf26eb41a0/Thumbnail/20260401_143054.png)
+![image_alt](https://github.com/joyalmaxwell/joyalmaxwell/blob/82838d5de3f0b2dce9818fa234a6cd731326d0c9/Thumbnail/20260401_122811.png)
 
 ---
 
