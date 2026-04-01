@@ -7,7 +7,7 @@
 ## Mainly Focus
 - Vibe Programmer
 - Business Analyst
-- Automation workflows
-- System utilities
-- Artificial intelligence
+- Automation Workflows
+- System Utilities
+- Artificial Intelligence
 ---
