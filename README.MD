@@ -1,5 +1,3 @@
-# Hi, I'm Joyal 👋
-
 ![image_alt](https://github.com/joyalmaxwell/joyalmaxwell/blob/ed77576458c40f86f77c2ec9e3eb8a6da09a3310/Thumbnail/20260401_125623.png)
 
 ---
