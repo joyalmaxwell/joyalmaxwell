@@ -10,7 +10,7 @@ i like building things that make sense.
 ---
 
 ## Mainly Focused
-- Vibe Programmer
+- Vibe Coding
 - Business Analyst
 - Automation Workflows
 - System Utilities
