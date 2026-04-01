@@ -4,13 +4,10 @@
 
 ---
 
-## Highlights
-- Clean CLI designs
+## Mainly Focus
+- Vibe Programmer
+- Business Analyst
 - Automation workflows
 - System utilities
-
+- Artificial intelligence
 ---
-
-![Automation](https://img.shields.io/badge/Automation-black)
-![CLI](https://img.shields.io/badge/CLI-grey)
-![Workflow](https://img.shields.io/badge/Workflow-black)
