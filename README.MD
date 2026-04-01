@@ -4,7 +4,7 @@
 
 ---
 
-## Mainly Focus
+## Mainly Focused
 - Vibe Programmer
 - Business Analyst
 - Automation Workflows
