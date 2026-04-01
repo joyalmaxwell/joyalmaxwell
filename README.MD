@@ -9,7 +9,7 @@ Building automation systems and command-line applications.
 - Focused on terminal-based tools
 - Creating lightweight productivity systems
 
-![image_alt](https://github.com/joyalmaxwell/joyalmaxwell/blob/84285f37fb3dbbaea564eccf485ddb90c341ce02/Thumbnail/20260401_105521.png)
+![image_alt](
 
 ---
 
